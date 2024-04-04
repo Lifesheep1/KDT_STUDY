@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jungmin.I_DaysInMonthTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2024-04-04T08:48:21" hostname="BOOK-LCCUUB9T5H" time="0.043">
+  <properties/>
+  <testcase name="10을(를) 입력받은 경우, 31을(를) 리턴해야 합니다" classname="com.jungmin.I_DaysInMonthTest" time="0.037"/>
+  <testcase name="11을(를) 입력받은 경우, 30을(를) 리턴해야 합니다" classname="com.jungmin.I_DaysInMonthTest" time="0.0"/>
+  <testcase name="12을(를) 입력받은 경우, 31을(를) 리턴해야 합니다" classname="com.jungmin.I_DaysInMonthTest" time="0.0"/>
+  <testcase name="1을(를) 입력받은 경우, 31을(를) 리턴해야 합니다" classname="com.jungmin.I_DaysInMonthTest" time="0.0"/>
+  <testcase name="2을(를) 입력받은 경우, 28을(를) 리턴해야 합니다" classname="com.jungmin.I_DaysInMonthTest" time="0.001"/>
+  <testcase name="3을(를) 입력받은 경우, 31을(를) 리턴해야 합니다" classname="com.jungmin.I_DaysInMonthTest" time="0.0"/>
+  <testcase name="4을(를) 입력받은 경우, 30을(를) 리턴해야 합니다" classname="com.jungmin.I_DaysInMonthTest" time="0.0"/>
+  <testcase name="5을(를) 입력받은 경우, 31을(를) 리턴해야 합니다" classname="com.jungmin.I_DaysInMonthTest" time="0.0"/>
+  <testcase name="6을(를) 입력받은 경우, 30을(를) 리턴해야 합니다" classname="com.jungmin.I_DaysInMonthTest" time="0.0"/>
+  <testcase name="7을(를) 입력받은 경우, 31을(를) 리턴해야 합니다" classname="com.jungmin.I_DaysInMonthTest" time="0.0"/>
+  <testcase name="8을(를) 입력받은 경우, 31을(를) 리턴해야 합니다" classname="com.jungmin.I_DaysInMonthTest" time="0.0"/>
+  <testcase name="9을(를) 입력받은 경우, 30을(를) 리턴해야 합니다" classname="com.jungmin.I_DaysInMonthTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
