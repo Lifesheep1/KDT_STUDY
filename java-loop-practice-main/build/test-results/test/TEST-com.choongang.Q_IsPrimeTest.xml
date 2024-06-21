@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.choongang.Q_IsPrimeTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-06-21T08:20:43" hostname="BOOK-LCCUUB9T5H" time="0.035">
+  <properties/>
+  <testcase name="4을(를) 입력받은 경우, false를 리턴해야 합니다" classname="com.choongang.Q_IsPrimeTest" time="0.033"/>
+  <testcase name="97을(를) 입력받은 경우, true를 리턴해야 합니다" classname="com.choongang.Q_IsPrimeTest" time="0.001"/>
+  <testcase name="11587을(를) 입력받은 경우, true를 리턴해야 합니다" classname="com.choongang.Q_IsPrimeTest" time="0.0"/>
+  <testcase name="12887을(를) 입력받은 경우, false를 리턴해야 합니다" classname="com.choongang.Q_IsPrimeTest" time="0.001"/>
+  <testcase name="1을(를) 입력받은 경우, false를 리턴해야 합니다" classname="com.choongang.Q_IsPrimeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
